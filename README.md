@@ -6,30 +6,20 @@ Overview
 
 AYUSHI Chatbot is an AI-powered chatbot designed to provide knowledge about medicinal plants. It fetches data from a SheetDB API and uses Google's Gemini AI model to answer general queries. The chatbot is built using Streamlit for the interface and supports a chat history feature.
 
-Features
-
-🌱 Provides information on medicinal plants from a SheetDB database.
-
-💡 Uses Google Gemini AI for answering general queries.
-
-💾 Saves chat history locally in a JSON file.
-
-🔄 Allows users to toggle between chat and history views.
-
-🚀 Built with Streamlit for a smooth UI experience.
+Features:
+Provides information on medicinal plants from a SheetDB database.
+Uses Google Gemini AI for answering general queries.
+Saves chat history locally in a JSON file.
+Allows users to toggle between chat and history views.
+Built with Streamlit for a smooth UI experience.
 
 Tech Stack
 
 Python
-
 Streamlit
-
 Google Gemini AI (Generative AI)
-
 SheetDB API
-
 Requests (for API calls)
-
 Dotenv (for environment variable management)
 
 Installation
@@ -37,7 +27,6 @@ Installation
 Prerequisites
 
 Ensure you have the following installed:
-
 Python 3.x
 
 pip
