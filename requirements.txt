@@ -1,0 +1,4 @@
+openai==1.44.0
+streamlit==1.38.0
+google-generativeai
+python-dotenv
